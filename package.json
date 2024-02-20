@@ -1,0 +1,11 @@
+{
+  "name": "phonepe",
+  "version": "1.0.0",
+  "description": "phone pe inegration for swiggy app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubham khatik",
+  "license": "ISC"
+}
